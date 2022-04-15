@@ -1,5 +1,5 @@
 {
- "version":"2.27",
+ "version":"2.26",
  "title":"Atualização disponível v2.27 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
  "download":"https://t.me/s/DigitalSuporte/681"
