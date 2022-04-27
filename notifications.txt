@@ -13,7 +13,7 @@
    "cancelable":"false"
 },
 {
-   "title":"Segue no YouTube",
+   "title":"Siga no YouTube",
    "description":"Você quer ficar atualizado? Siga o meu desenvolvedor no YouTube =)",
    "request":"null",
    "type":"official",
@@ -21,7 +21,7 @@
    "cancell":"talvez depois",
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://youtube.com/c/SuporteWhatsApp2021",
+   "is_web":"https://www.youtube.com/c/RepositoryZ",
    "id":"insta2_",
    "cancelable":"false"
 },
@@ -34,12 +34,12 @@
    "cancell":"talvez depois",
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://t.me/GrupoSuporteDigital",
+   "is_web":"https://t.me/FouadPlus",
    "id":"insta3_",
    "cancelable":"false"
 },
 {
-   "title":"Segue no Instagram",
+   "title":"Siga no Instagram",
    "description":"Você usa Instagram? Siga o perfil do meu desenvolvedor =)",
    "request":"null",
    "type":"official",
@@ -52,7 +52,7 @@
    "cancelable":"false"
 },
 {
-   "title":"Segue no YouTube",
+   "title":"Siga no YouTube",
    "description":"Você quer ficar atualizado? Siga o meu desenvolvedor no YouTube =)",
    "request":"null",
    "type":"official",
@@ -60,7 +60,7 @@
    "cancell":"talvez depois",
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://youtube.com/c/SuporteWhatsApp2021",
+   "is_web":"https://www.youtube.com/c/RepositoryZ",
    "id":"insta5_",
    "cancelable":"false"
 },
@@ -73,7 +73,7 @@
    "cancell":"talvez depois",
    "ok_toast":"Manda DM que sigo de volta =)",
    "cancell_toast":"Okay, te lembro daqui a pouquinho, viu?",
-   "is_web":"https://t.me/GrupoSuporteDigital",
+   "is_web":"https://t.me/FouadPlus",
    "id":"insta6_",
    "cancelable":"false"
 }]
