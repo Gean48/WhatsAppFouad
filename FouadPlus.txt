@@ -1,6 +1,6 @@
 {
- "version":"9.29",
- "title":"Atualização disponível v9.29 🛠️",
+ "version":"9.29F",
+ "title":"Atualização disponível v9.29F 🛠️",
  "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
  "download":"https://xlab-temas.blogspot.com/2022/04/fouad-plus.html"
 }
