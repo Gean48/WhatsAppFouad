@@ -1,6 +1,6 @@
 {
- "version":"9.29F",
- "title":"Atualização disponível v9.29F 🛠️",
- "description":"Uma nova atualização está disponível e vêm com novas funções incríveis 👏🏻🚀",
+ "version":"9.29Ext",
+ "title":"Atualização disponível v9.29Ext 🛠️",
+ "description":"Novos ticks e fontes para ter mais personalização em seu WhatsApp 👏🏻🚀",
  "download":"https://xlab-temas.blogspot.com/2022/04/fouad-plus.html"
 }
