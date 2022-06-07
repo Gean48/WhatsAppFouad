@@ -1,6 +1,6 @@
 {
  "version":"9.29Ext",
- "title":"Atualização disponível v9.29Ext 🛠️",
- "description":"Novos ticks e fontes para ter mais personalização em seu WhatsApp 👏🏻🚀",
+ "title":"Atualização disponível v9.30 🛠️",
+ "description":"Atualização da base 2.22.10.73\n\nNovos emojis\n\nOuvir nota de voz após a saída do bate-papo em segundo plano\n\nAdicionado opção Confirmar antes de enviar Status\n\nEntre outras coisas 👏🏻🚀",
  "download":"https://xlab-temas.blogspot.com/2022/04/fouad-plus.html"
 }
