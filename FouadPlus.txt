@@ -1,6 +1,6 @@
 {
  "version":"9.30F",
- "title":"Atualização disponível v9.30F 🛠️",
+ "title":"Atualização disponível v9.31 🛠️",
  "description":"Atualização da base 2.22.10.73\n\nNovos emojis\n\nOuvir nota de voz após a saída do bate-papo em segundo plano\n\nAdicionado opção Confirmar antes de enviar Status\n\nEntre outras coisas 👏🏻🚀",
- "download":"https://gbwhatzapp.blogspot.com/2022/06/download-fouad-whatsapp-atualizado.html?m=1"
+ "download":"https://bit.ly/UpdateFouad"
 }
