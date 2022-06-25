@@ -1,6 +1,6 @@
 {
- "version":"9.30F",
+ "version":"9.31",
  "title":"Atualização disponível v9.31 🛠️",
- "description":"Atualização da base 2.22.10.73\n\nNovos emojis\n\nOuvir nota de voz após a saída do bate-papo em segundo plano\n\nAdicionado opção Confirmar antes de enviar Status\n\nEntre outras coisas 👏🏻🚀",
- "download":"https://bit.ly/UpdateFouad"
+ "description":"Novo menu de configurações\n\nNovo efeito de transição em chat\n\nEntre outras coisas 👏🏻🚀",
+ "download":"https://seulink.digital/FkNyrHF"
 }
