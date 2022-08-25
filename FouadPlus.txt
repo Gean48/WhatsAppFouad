@@ -1,6 +1,6 @@
 {
- "version":"9.31",
- "title":"Atualização disponível v9.31 🛠️",
- "description":"Novo menu de configurações\n\nNovo efeito de transição em chat\n\nEntre outras coisas 👏🏻🚀",
- "download":"https://seulink.digital/FkNyrHF"
+ "version":"9.32",
+ "title":"Migração temporaria 🛠️",
+ "description":"Usem o Delta Ulta até o retorno do FOUAD PLUS 👏🏻🚀",
+ "download":"https://bit.ly/3Cz2HCC"
 }
