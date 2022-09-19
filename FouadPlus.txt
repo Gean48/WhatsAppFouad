@@ -1,6 +1,6 @@
 {
  "version":"9.32",
- "title":"Migração temporaria 🛠️",
- "description":"Usem o Delta Ulta até o retorno do FOUAD PLUS 👏🏻🚀",
- "download":"https://bit.ly/3Cz2HCC"
+ "title":"Nova atualização V9.41 🚀",
+ "description":"CORRIGIDO Excluir mensagens de administradores em grupos que não funcionavam corretamente\n\nCORRIGIDO o estilo caseiro não funcionava\n\nCORRIGIDO as linhas de furto não funcionam\n\nCORRIGIDO o bloqueio do WhatsApp não funcionava\n\nCORRIGIDO Ocultar atualização de status recentemente/visualizada/silenciada não está funcionando\n\nCORRIGIDO Emblema de administrador aparecendo para membros aleatórios",
+ "download":"https://bit.ly/Fouad_Plus"
 }
