@@ -1,6 +1,6 @@
 {
- "version":"9.41",
+ "version":"9.42",
  "title":"Nova atualização V9.42 🚀",
- "description":"ADICIONADO: 30 novas fontes\n\nADICIONADO: Efeito de queda",
+ "description":"ADICIONADO: 30 novas fontes\n\nADICIONADO: Efeitos de queda",
  "download":"https://bit.ly/3UhYFoN"
 }
